@@ -1,6 +1,0 @@
-User-agent: *
-Disallow: /cmd/
-Disallow: /css/
-Disallow: /css/img/
-Disallow: /css/img/cd/
-Disallow: /lang/
